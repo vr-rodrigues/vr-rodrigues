@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá, meu querido e minha querida 👋
+Bem-vindo ao meu perfil no GitHub!
 
-<!--
-**vr-rodrigues/vr-rodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o Victor Rangel, Bacharel em Economia e Mestrando em Políticas Públicas pelo Insper.
 
-Here are some ideas to get you started:
+Sou também um econometrista aplicado com ampla experiência profissional e acadêmica em coleta e análise de dados, com foco em machine learning e econometria. E um bom filho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Academicamente, meus interesses são:
+- Microeconometria Aplicada;
+- Inferência Causal;
+- Large Language Models;
+- Avaliação de Políticas Públicas;
+- Instituções, Mudanças Institucionais e Crescimento Econômico (quem pegou, pegou)
+
+Além disso, atuo como consultor em Inteligência de Mercado, ensino econometria e faço divulgação científica lá no @econometriafacil no Instagram. 
+Por aqui, você vai encontrar projetos usados para divulgação, ensino ou códigos de artigos públicados.
+
+Quer entrar em contato comigo?
+
+- 📧 Email: [victorrsr@al.insper.edu.br](mailto:victorrsr@al.insper.edu.br)
+- 💼 LinkedIn: [linkedin.com/in/vr-rodrigues](https://www.linkedin.com/in/vr-rodrigues)
+- 📸 Instagarm [@econometriafacil](https://www.instagram.com/econometriafacil/)
+  
+Qualquer coisa me dá um oi. Abraço!
