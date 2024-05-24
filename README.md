@@ -9,7 +9,7 @@ Academicamente, meus interesses são:
 - Inferência Causal;
 - Large Language Models;
 - Avaliação de Políticas Públicas;
-- Instituções, Mudanças Institucionais e Crescimento Econômico (quem pegou, pegou)
+- Instituições, Mudança Institucional e Crescimento Econômico (quem pegou, pegou)
 
 Além disso, atuo como consultor em Inteligência de Mercado, ensino econometria e faço divulgação científica lá no @econometriafacil no Instagram. E sou um bom filho.
 Por aqui, você vai encontrar projetos usados para divulgação, ensino ou códigos de artigos públicados.
